@@ -41,6 +41,3 @@ You can build packet object from using bytes with `Fill` method.
 
    
  - [@araufdogan](https://github.com/araufdogan)
-
-## License
-Packet is released under the **Apache 2.0 License**.
